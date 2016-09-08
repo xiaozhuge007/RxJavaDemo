@@ -7,4 +7,7 @@ package com.xiaozhuge.rxjavademo.bean;
  * @author xiaozhuge007
  */
 public class Test {
+    public void say() {
+        
+    }
 }  
