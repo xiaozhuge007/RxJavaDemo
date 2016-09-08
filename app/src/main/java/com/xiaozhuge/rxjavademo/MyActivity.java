@@ -74,7 +74,7 @@ public class MyActivity extends RxAppCompatActivity {
     }
 
     /**
-     *
+     *备注9-8
      */
     private void bufferData() {
         DdmBean.formIntegerData()
