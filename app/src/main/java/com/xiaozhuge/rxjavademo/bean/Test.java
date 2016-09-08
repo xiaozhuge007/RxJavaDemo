@@ -8,6 +8,9 @@ package com.xiaozhuge.rxjavademo.bean;
  */
 public class Test {
     public void say1() {
-        
+
+    }
+    public void say() {
+
     }
 }  
